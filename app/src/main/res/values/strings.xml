@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">Instrumistory</string>
+
+    <string name="references">
+
+        \nReferences -\n\n
+
+       <i><b> All images provided courtesy of www.pixabay.com\n\n
+
+        All audio (except Deadpulse) provided courtesy of freesound.org\n\n
+
+        All Deadpulse tracks are written, recorded and performed by Patrick O Connell and appear with my permission.</b></i>\n\n
+
+    </string>
+
+    <string name="drumtitle">Drums</string>
+
+    <string name="electrictitle">Electric Guitar</string>
+
+    <string name="google_api_key">AIzaSyCLokxNShT9GIR8RtzawsFER-KBN5UnZxI</string>
+
+    <string name="basstitle">Bass Guitar</string>
+
+    <string name="pianotitle">Piano</string>
+
+    <string name="overlay">
+        Touch an instrument to:\n
+    \n- Learn about its core features!
+    \n\n- Hear what it sounds like!
+    \n\n- See where it came from!</string>
+
+    <string name="electric_info">
+        The Electric Guitar is arguably one of the most well known instruments on the planet.
+        It is a stringed instrument which, on its own would be virtually inaudible in a live setting, as the instrument is not terribly resonant.
+        The volume is amplified, quite fittingly, through the use of
+        an amplifier! Traditional electric guitars have 6 strings, typically tuned from low to high to EADGBE.
+        However, 7, 8 and even 9 string guitars have become much more commonplace in the last decade
+        in progressive, jazz and heavy metal music.\n
+
+        The electric guitar is famously associated with Les Paul, with the Gibson Les Paul being one of the most recognised guitar shapes on the planet.
+        The companies Fender and Gibson are seen as the root companies involved in the promotion and creation of
+        one of the most widely played instruments in the world.
+
+        \nAs regard to playing style - guitar has usually been approached by two schools of thought - rhythm and lead guitar playing.
+        Rhythm lays the foundation, generally with chordal playing, and Lead concentrates on melodic, single note lines.
+        Modern guitar players have begun to blur the line between the two using many techniques, such as tapping.
+
+
+    </string>
+
+    <string name="drum_info">Percussion, or the art of making noise by hitting things, has been a feature in history for hundreds of years!
+        The necessity of a drum kit stemmed from a need for efficiency, why have several percussion instruments, such as
+        hi-hats, cymbals, tom-toms, snares and bass drums played individually, when they can be arranged to be played by one person?
+        \nDrum-kits became quite commonplace in the big-band and swing eras of jazz, and, while synthesized drum sounds may have
+        come to prominence since the 1980s, the authentic sound of the drums is generally preferred among musicians, just make sure to wear ear protection!
+
+
+
+
+
+
+    </string>
+
+    <string name="bass_info">A bass guitar is a close friend of the electric guitar. They can often have a similar
+        appearance, but tonally, aim to achieve different goals. A bass will typically have 4 strings, although
+        this is a number that can sway depending on the genre. These strings will be much thicker than an electric guitars,
+        however, confusingly, they are tuned to the same note as the bottom 4 strings on an electric guitar - EADG.
+        On the basis of pitch, however, the instruments are in fact an octave apart, meaning the bass technically plays the same note,
+        but at a lower pitch. To account for this, thicker strings and a longer neck are needed to compensate for the tension of the string,
+        floppy strings are not conducive to efficient playing!
+        \nThe creation of the electric bass was similar to that of the electric guitar, with larger sound halls, a way of amplifying the
+        volume of the instrument was necessary, as the Double-Bass, an extremely large acoustic instrument, was not loud enough for the
+        development of modern music.
+        \nBass is seen by some as an easier alternative to the guitar, but players like Victor Wooten, Richard Bona and Hadrien Feraud prove that
+        bass technique is in a league of its own!
+
+
+
+
+    </string>
+
+    <string name="piano_info">The piano is an instrument used in almost every genre, and has a very particular type of sound.
+        In terms of manufacturing, the piano is a very complex instrument - in essence it is comprised of over 200 tense strings
+        which create their trademark sound when struck by hammers. These hammers are triggered when a key is pressed by whoever is playing.
+
+        A piano is measured in keys or octaves. There are twelve keys to an octave, with many pianos having a size of at least 88 keys - making it quite a large instrument!
+        \nThe piano is generally associated with the more disciplined side of music - it is considered the staple instrument
+        to learn for students of music theory.
+
+
+   </string>
+
+    <string-array name="guitarfacts">
+        <item>Leo Fender, inventor of the Telecaster and Stratocaster, could not play guitar. \n(Courtesy of www.fact-slides.com)</item>
+        <item>Jimi Hendrix couldnt read or write music.\n(Courtesy of www.fact-slides.com)</item>
+        <item>Parts of the guitar are described like the human body: head, neck, and body.\n(Courtesy of http://gluckprogram.ucr.edu/gluck_resources/public_domain_teaching_resources)</item>
+        <item>The oldest guitar-like instrument is 3500 years old -  It was found in Egypt, and is believed to have belonged to a singer known as Har-Mose. He was employed by Architect to Queen Hatshepsut, and buried, with his instrument, close to his employer.
+It was constructed of cedar, featured 3 strings and had a plectrum, of sorts, attached by a cord to the neck. \n(Courtesy of http://www.dawsons.co.uk/blog/guitar-history-five-interesting-facts)</item>
+    <item>The name guitar has its origins in the Latin word Cithara. It wasn’t until the 1200s that an instrument began to use the name.
+    \n(Courtesy of http://www.dawsons.co.uk/blog/guitar-history-five-interesting-facts)</item>
+        <item>Tablature (the means of notating guitar parts with each string represented, and fret numbers for each note) is looked down upon a little, as being ‘for those who can’t read real music’, it actually has a history as long as that of traditional notation.
+        \n(Courtesy of http://www.dawsons.co.uk/blog/guitar-history-five-interesting-facts)</item>
+        <item>Many people think that Les Paul was the inventor of the electric guitar, but he wasn’t. The credit for this goes to George Beauchamp, a musician, and Adolph Rickenbacker, an electrical engineer, who are rightfully considered to be the people who created the first commercially viable modern amplifiable electric guitar.
+        \n(Courtesy of http://www.gizmodo.com/how-the-electric-guitar-was-invented-1453939129)</item>
+        <item>The need for an electric guitar arose because the classic guitar was too quiet to contribute to the music a band produced in many settings. This problem particularly began being apparent in the concert hall music of the 1880s.
+        \n(Courtesy of http://www.gizmodo.com/how-the-electric-guitar-was-invented-1453939129)</item>
+        <item>Beauchamp and Rickenbacker, after a lot of experimentation, finally invented an electromagnetic device which picked up the vibrations of the guitar strings with great clarity. In a nutshell, the electromagnets convert these vibrations into an electrical signal, which is then amplified and played through speakers.
+            In 1931, they installed these pickups on a new model designed by Harry Watson- the aluminum lap steel guitar called the “Frying Pan” for its size and shape.
+        \n(Courtesy of http://www.gizmodo.com/how-the-electric-guitar-was-invented-1453939129)</item>
+        <item>The first recordings of electric guitars were made in 1933 by Hawaiian music artists such as Andy Iona. Bob Dunn, of the band named “Milton Brown’s Musical Brownies,” first used the Hawaiian electric guitar in Western Swing in a Decca Records album released in 1935. Alvino Rey was the artist who brought the electric guitar in front of big orchestras, and who later developed the pedal steel guitar.
+        \n(Courtesy of www.gizmodo.com/how-the-electric-guitar-was-invented-1453939129)</item>
+
+    </string-array>
+
+    <string-array name="drumfacts">
+        <item>The drums are one of the world’s oldest instruments. As it is classed as a membrane (vibrations caused by a stretched surface)
+            it has carried the same traditional shape for thousands of years.
+        \n(Courtesy of www.normans.co.uk/blog/2014/09/interesting-facts-drums/)</item>
+        <item>Back in the 80’s, electric drums became very popular. People thought that they were going to phase out traditional drums,
+            however it turns out drummers prefer to play acoustic kits over electric in all decades.
+        \n(Courtesy of www.normans.co.uk/blog/2014/09/interesting-facts-drums/)</item>
+        <item>Ludwig drums founded the first workable bass drum pedal system in 1909,
+            paving the way for what was to become the modern drum kit.
+        \n(Courtesy of www.normans.co.uk/blog/2014/09/interesting-facts-drums/)</item>
+        <item>The “drum kit” started to evolve in the 1890’s when people started to incorporate the bass drum and cymbals into their performance. The first drum kit to be sold as a full set was the 1920’s Ludwig “Jazz Er Up” kit however
+            it did not include a Hi-Hat. The Hi-Hat
+            was introduced in the 1930’s DeLuxe Drum Outfit.
+        \n(Courtesy of www.normans.co.uk/blog/2014/09/interesting-facts-drums/)</item>
+        <item>The snare is the main drum in a kit for the consistent drum beat along with the bass drum. The snare is played most commonly on the two
+            and four in a 4/4 time signature which is the most common time signature used in most music.
+        \n(Courtesy of www.citelighter.com/music/instruments/knowledgecards/drum-kits)</item>
+        <item>Brushes that create softer drum sound were used in drumming ever since 1920s.
+        \n(Courtesy of www.historyofdrums.net/drum-facts/facts-about-drums/)</item>
+        <item>Average drum sets has 5 pieces – bass drum, snare drum, two toms,
+            and floor tom. Several cymbals are also used (crash, hi-hat and ride).
+        \n(Courtesy of www.historyofdrums.net/drum-facts/facts-about-drums/)</item>
+        <item>Skills that every modern drummer needs to have are
+            limb independence, eye-hand coordination and good sense of rhythm.
+         \n(Courtesy of www.historyofdrums.net/drum-facts/facts-about-drums/)</item>
+        <item>Sri Lankan history shows that drums were once used as a form of communication between cities or tribes.
+            The pattern or tone of a drum beat might mean a variety of messages.
+        \n(Courtesy of www.softschools.com/timelines/history_of_drums_timeline/291/)</item>
+        <item>There is little evidence of man using drum sticks from the ancient days; however, it is likely they were used. Some of the earliest known drum sticks
+            were from the 1300s, used to beat snare drums called Tabors,
+            and they were made from wood.
+        \n(Courtesy of www.softschools.com/timelines/history_of_drums_timeline/291/)</item>
+
+    </string-array>
+
+    <string-array name="bassfacts">
+        <item>In 1959 Danelectro created the first 6 string bass, tunes E A D G B E,
+            and Gibson and Fender used this idea to make the Gibson EB-6 in 1960, and the Fender VI in 1962.
+            Fender created the first 5 string in 1964, with the Fender V.
+        \n(Courtesy of www.ultimate-guitar.com/columns/the_history_of/the_history_of_the_modern_bass_guitar.html)</item>
+        <item>In 1965 came the first fretless Bass Aubi from Ampeg and
+            in 1968, there appeared an 8 string bass from Hagstroem. The
+            first fretless 6 string, (later owned by Les Claypool) was built by
+            Carl Thompson in 1978. Because of playing styles like Slap and Pop,
+            the variable number of strings and the different combinations of woods,
+            necks, etc. pickups had to become much more varied. EMG pickups became widely used on bass guitars.
+        \n(Courtesy of www.ultimate-guitar.com/columns/the_history_of/the_history_of_the_modern_bass_guitar.html)</item>
+        <item>Bass guitar was popularised early on by players like John Entwistle and James Jamerson
+            in the 60s, Jaco Pastorious and Stanley Clarke in the 70s, and Marcus Miller and Cliff Burton
+            in the 80s. The late 80s saw a decline in the popularity of the bass, as the fashion was for
+            electronic synthesised dance music. However, the bass had now diversified further away from the
+            double bass guitar.
+        \n(Courtesy of www.ultimate-guitar.com/columns/the_history_of/the_history_of_the_modern_bass_guitar.html)</item>
+        <item>In the 1920s, Lloyd Loar, working for Gibson, designed the first electric double bass.
+            The bass used an electro-static pickup, but amplification of bass frequencies was as yet undeveloped,
+            so there was no practical way of hearing the instrument. In the early 1930s, Paul Tutmarc became the
+            first known individual to refine the double bass to a more practical size. The first prototype was about
+            the size of a cello, and featured a rudimentary pickup, but this was found to be too heavy, and the
+            design was refined to be more like a guitar. This new bass was 42 inches long, solid body, made of
+            black walnut and piano strings and, like the previous, featuring a pickup.
+        \n(Courtesy of www.ultimate-guitar.com/columns/the_history_of/the_history_of_the_modern_bass_guitar.html)</item>
+        <item>The tuning for the double bass and four string bass usually is the same.
+            During the live performances, the bass guitar is plugged into a speaker or amplifier.
+        \n(Courtesy of www.myinterestingfacts.com/the-bass-guitar-facts/)</item>
+        <item>The slap and pop technique involves thumping, or slapping, the strings with your thumb, while snapping or popping the strings with your fingers. The technique is most often used in funk music, but also has its place in rock and fusion styles. Famous slap and pop bassists
+            include Larry Graham of Sly and the Family Stone, and Flea of the Red Hot Chili Peppers.
+        \n(Courtesy of www.thefourohfive.com/music/article/a-brief-history-of-the-bass-guitar-141)</item>
+        <item>Bass guitars with eight or twelve strings are often used in amore classical context, where the artist might need to make a lot of complex sounds; whereas basses with fewer strings might see more use in
+            popular music, like rock, blues, and jazz. The same logic could apply to the use of frets.
+        \n(Courtesy of www.thefourohfive.com/music/article/a-brief-history-of-the-bass-guitar-141)</item>
+        <item>Despite its innovative design, Tutmarc’s design was not a success. It was not until Leo Fender applied his magic touch in 1951 that the electric bass guitar was truly brought to the mass market. His pioneering design was the Fender Precision Bass,
+            a model that is still available today, in a form largely unchanged from the original.
+        \n(Courtesy of www.dawsons.co.uk/blog/electric-bass-guitar-brief-history)</item>
+        <item>In the early 1970s, Jaco Pastorius acquired a 1962 Fender Jazz bass, from which he removed the frets with a butter knife. Jaco filled in the areas where the frets had been with plastic wood and coated the former fretboard with epoxy. This bass, which was the
+            primary fretless instrument he recorded with, and Jaco nicknamed it the Bass of Doom.
+        \n(Courtesy of www.jacopastorius.com/life/</item>
+        <item>Basses are not limited to just four strings, Jean Baudin is known for playing
+        an 11 string bass, with which he employs two handing tapping techniques.</item>
+    </string-array>
+
+    <string-array name="pianofacts">
+        <item>
+The piano Freddie Mercury plays in Bohemian Rhapsody is the same exact piano Paul McCartney
+            plays in Hey Jude.(Courtesy of wwww.factslides.com)</item>
+        <item>The piano is generally considered to be a member of the percussion
+            family because it only makes noise when a hammer hits a string.
+        \n(Courtesy of www.getsingspiel.com/learn/2015/1/12/10-facts-about-piano)</item>
+        <item>The name ‘piano’ is actually a nickname for the full Italian name of the instrument, which is pianoforte.
+This longer name was given to the instrument based on its ability to play notes very quietly (piano) or very loudly (forte).
+        \n(Courtesy of www.getsingspiel.com/learn/2015/1/12/10-facts-about-piano)</item>
+        <item>The piano is actually a relatively new instrument!
+
+The first piano constructed was made in 1698 by Bartolomeo Cristofori in Italy. That might sound old, but other instruments
+            such as the flute have been around for thousands of years – the piano is only 316 years old!
+        \n(Courtesy of www.getsingspiel.com/learn/2015/1/12/10-facts-about-piano)</item>
+        <item>There are 230 strings required for a piano to make its full range of sound.
+        \n(Courtesy of www.getsingspiel.com/learn/2015/1/12/10-facts-about-piano)</item>
+        <item> A concert grand piano is 8′ 11″ and weighs over 1400 pounds.
+        \n(Courtesy of www.getsingspiel.com/learn/2015/1/12/10-facts-about-piano)</item>
+        <item>If all of the strings were of the same thickness and under the same tension, with high C being the usual two inches, low C would have to be about thirty feet long. For this reason, lower strings are weighted by wrapping copper or iron wire around the core wire. The lowest octave having two wrappings.
+        \n(Courtesy of kenfoster.com/PianoTuning/Facts.html)</item>
+        <item>Although an acoustic piano has been around since 1700s, a digital piano was not brought to the market until 1980! The quest for an electronic instrument, however, had begun in the 1920s and, around 30 years later, the electric piano was born. It was an acoustic instrument with a pick up that would let you amplify it and quickly gained huge popularity – the electric piano was used by famous musicians such as Ray Charles and Duke Ellington. Then, in 1960s synthesizer appeared, which then influenced many genres of music thereafter. Finally, in the 1980s, the modern digital piano was introduced as we know it today! This opened a whole world of possibilities and also solved a lot of disadvantages of acoustic pianos, allowing musicians to practice silently, amplify the instrument, save space and tuning costs.
+        \n(Courtesy of http://www.normans.co.uk/blog/2015/03/10-interesting-facts-piano/)</item>
+        <item>The record for the largest piano ever made is held by Adrian Mann, a piano tuner from New Zealand. It took him 4 years to build the piano and this grandiose instrument weighs 1.4 tonnes and is 5.7 metres long – a tremendous achievement for a guy who was just 25 years old when he finished working on his piano.
+        \n(Courtesy of http://www.normans.co.uk/blog/2015/03/10-interesting-facts-piano/)</item>
+        <item>A new piano should be tuned four times a year and you can then move on to twice a year thereafter. Pianos also tend to stay in tune much better when they are not kept in overly damp or dry environments. Digital pianos do not need tuning; however, improper care may cause the sound to warp.
+        \n(Courtesy of http://www.normans.co.uk/blog/2015/03/10-interesting-facts-piano/)</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="instrument">Instrument Image</string>
+
+    <string name="info_def">This is a musical instrument.</string>
+
+    <string name="play_music">Play Music</string>
+
+    <string name="factgen">Generate A Random Fact!</string>
+
+    <string name="refresh">Refresh Fact</string>
+
+    <string name="origin">Where Did It Come From?</string>
+
+    <string name="home">Home</string>
+
+    <string name="copyright">Instrumistory 2016©</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="enter">Enter</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+
+    <string name="appdescription">
+        <font fgcolor="red"><b><i>Instrumistory</i></b></font> is a fun, user-friendly app which aims to teach
+        users about the origin and sounds of their favourite instruments in modern music.
+
+        \nWe aim to inform the user about the foundations of the instrument, how it sounds
+         in the context of a piece of music, and where it was made (down to the co-ordinates!).
+
+        \nWith our next update, we plan to add more instruments and possibly add a function
+        which allows users to see where their nearest music teacher is!
+
+        \nWe hope you enjoy the app as much as we enjoyed making it! \n\n- <font fgcolor="red"><i>The Instrumistory Team.</i></font>
+
+    </string>
+
+</resources>

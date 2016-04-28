@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:screenOrientation="portrait"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/coach_mark_master_view">
+
+
+        <TextView
+            android:id="@+id/coach_marks_image"
+            android:paddingTop="400dp"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            android:textColor="@color/colorAccent"
+            android:text="@string/overlay" />
+
+    <ImageView
+        android:id="@+id/imgoverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/instrumistory"/>
+
+
+</RelativeLayout>
